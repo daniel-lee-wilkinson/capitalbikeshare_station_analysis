@@ -44,6 +44,15 @@ You can download this data from the **Capital Bikeshare System Data Portal**:
 2. Find and download the trip data for the required time period (e.g., April 2025)
 3. Save the downloaded file to `input_data/trips.csv`
 
+Similarly, other data files needed for this analysis can be obtained at the following links: 
+
+- [ZIP code boundaries](https://www.census.gov/geo/reference/zip-codes.html)
+- [Shapefile](https://www2.census.gov/geo/tiger/TIGER2024/ZCTA520/)
+- [Employer data](https://does.dc.gov/sites/default/files/dc/sites/does/publication/attachments/Top%20200%20Employers-20241%28FINAL%29.xlsx)
+
+---
+
+
 **Note**: The filename must match exactly, or you may need to update file paths in the scripts inside the `code/` folder.
 
 
@@ -275,14 +284,7 @@ project_root/
 └── code/               # All Python scripts
 ```
 
-## Data Sources
 
-- [Capital Bikeshare](https://s3.amazonaws.com/capitalbikeshare-data/202504-capitalbikeshare-tripdata.zip) (trip data)
-- [ZIP code boundaries](https://www.census.gov/geo/reference/zip-codes.html)
-- [Shapefile](https://www2.census.gov/geo/tiger/TIGER2024/ZCTA520/)
-- [Employer data](https://does.dc.gov/sites/default/files/dc/sites/does/publication/attachments/Top%20200%20Employers-20241%28FINAL%29.xlsx)
-
----
 
 ## Future Work
 
