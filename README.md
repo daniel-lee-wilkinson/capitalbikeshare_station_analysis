@@ -34,7 +34,7 @@ This project uses **GIS-based spatial analysis** to examine Capital Bikeshare tr
 
 This repository does **not** include large input data files (e.g., `input_data/trips.csv`) due to GitHub’s 100 MB file size limit. To run the full analysis, you will need to manually download and place the following file in the correct folder:
 
-### 🔽 How to Obtain
+### How to Obtain
 You can download `input_data/trips.csv` (approximately 110 MB) from the **Capital Bikeshare System Data Portal**:
 
 1. Visit: [https://www.capitalbikeshare.com/system-data](https://www.capitalbikeshare.com/system-data)
