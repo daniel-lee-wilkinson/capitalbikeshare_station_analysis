@@ -34,27 +34,22 @@ This project uses **GIS-based spatial analysis** to examine Capital Bikeshare tr
 
 This repository does **not** include large input data files (e.g., `input_data/trips.csv`) due to GitHub’s 100 MB file size limit. To run the full analysis, you will need to manually download and place the following file in the correct folder:
 
-### Required File
-- `input_data/trips.csv` (approx. 110 MB)
-
 ### 🔽 How to Obtain
-You can download this data from the **Capital Bikeshare System Data Portal**:
+You can download `input_data/trips.csv` (approximately 110 MB) from the **Capital Bikeshare System Data Portal**:
 
 1. Visit: [https://www.capitalbikeshare.com/system-data](https://www.capitalbikeshare.com/system-data)
 2. Find and download the trip data for the required time period (e.g., April 2025)
 3. Save the downloaded file to `input_data/trips.csv`
 
-Similarly, other data files needed for this analysis can be obtained at the following links: 
-
-- [ZIP code boundaries](https://www.census.gov/geo/reference/zip-codes.html)
-- [Shapefile](https://www2.census.gov/geo/tiger/TIGER2024/ZCTA520/)
-- [Employer data](https://does.dc.gov/sites/default/files/dc/sites/does/publication/attachments/Top%20200%20Employers-20241%28FINAL%29.xlsx)
-
----
-
-
 **Note**: The filename must match exactly, or you may need to update file paths in the scripts inside the `code/` folder.
 
+Other large files needed for this analysis can be obtained at the following links: 
+
+- [ZIP code boundaries](https://www.census.gov/geo/reference/zip-codes.html)
+- [Shapefile ZCTA520](https://www2.census.gov/geo/tiger/TIGER2024/ZCTA520/)
+- [Biggest employers in DC in 2024](https://does.dc.gov/sites/default/files/dc/sites/does/publication/attachments/Top%20200%20Employers-20241%28FINAL%29.xlsx)
+
+---
 
 **Table 1**: datasets used in this project.
 
