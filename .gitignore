@@ -8,3 +8,5 @@ input_data/*.db
 input_data/*.csv
 *~
 .venv/
+__pycache__/
+*.pyc
