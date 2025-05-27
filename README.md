@@ -45,7 +45,6 @@ You can download `input_data/trips.csv` (approximately 110 MB) from the **Capita
 
 Other large files needed for this analysis can be obtained at the following links: 
 
-- [ZIP code boundaries](https://www.census.gov/geo/reference/zip-codes.html)
 - [Shapefile ZCTA520](https://www2.census.gov/geo/tiger/TIGER2024/ZCTA520/)
 - [Biggest employers in DC in 2024](https://does.dc.gov/sites/default/files/dc/sites/does/publication/attachments/Top%20200%20Employers-20241%28FINAL%29.xlsx)
 
