@@ -1,0 +1,7 @@
+input_data/*.db
+*.shp
+*.dbf
+*.prj
+*.shx
+*.log
+*.xmlinput_data/*.csv
