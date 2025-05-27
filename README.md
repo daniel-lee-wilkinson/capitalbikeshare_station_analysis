@@ -114,6 +114,7 @@ To show how Bikeshare demand interacts with employement zones:
 
 - `map_by_key_employers.py`: plots start clusters (as dots) and employer overlays
 - `problem_stations_map.py`: filters and displays unbalanced locations e.g. net sinks
+
 ---
 
 ### Station Cluster Summary and Examples
@@ -164,7 +165,7 @@ To show how Bikeshare demand interacts with employement zones:
 
 - Sparse stations with almost no recorded usage
 - Potential candidates for removal or repurposing
-- 
+  
 **Table 6**: Clusters with lowest traffic
 
 | Start Station Name | Start Rides | ZIP |
