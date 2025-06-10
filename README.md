@@ -22,7 +22,7 @@
 
 ## Project Goal
 
-This project uses **GIS-based spatial analysis** to examine Capital Bikeshare trip data from the Washington D.C. metro area (April 2025), with the goal of:
+This self-directed project uses **GIS-based spatial analysis** to examine Capital Bikeshare trip data from the Washington D.C. metro area (April 2025), with the goal of:
 
 * Detecting **imbalances** in bike flows between starting locations and end point ZIP codes
 * Identifying **high-traffic hubs, net sinks, and underused stations**
