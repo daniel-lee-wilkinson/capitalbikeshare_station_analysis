@@ -6,15 +6,15 @@
 
 ---
 ### 🚀 TL;DR
-📍 Capital Bikeshare DC geospatial (GIS) project with spatial clustering and ZIP code overlays 
+- Capital Bikeshare DC geospatial (GIS) project with spatial clustering and ZIP code overlays 
 
-🧠 Identifies net sinks, sources, and rebalancing needs  
+- Identifies net sinks, sources, and rebalancing needs  
 
-🗺️ Maps linked to employer zones and infrastructure planning  
+- Maps linked to employer zones and infrastructure planning  
 
-📊 Stack: Python with GeoPandas, SQLite, and OSM geocoding  
+- Stack: Python with GeoPandas, SQLite, and OSM geocoding  
 
-📂 See `figures/` and `processed_data/` for key visual and data outputs  
+- See `figures/` and `processed_data/` for key visual and data outputs  
 
 
 ![Bike-share Start and Destination Flow Map](figures/clusters_zip_coded.png)
